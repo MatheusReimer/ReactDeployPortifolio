@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ReactDeployPortifolio/static/css/main.a46d8e2f.chunk.css",
-    "main.js": "/ReactDeployPortifolio/static/js/main.70dc7372.chunk.js",
-    "main.js.map": "/ReactDeployPortifolio/static/js/main.70dc7372.chunk.js.map",
+    "main.css": "/ReactDeployPortifolio/static/css/main.f3be1d7f.chunk.css",
+    "main.js": "/ReactDeployPortifolio/static/js/main.d99f4dcf.chunk.js",
+    "main.js.map": "/ReactDeployPortifolio/static/js/main.d99f4dcf.chunk.js.map",
     "runtime-main.js": "/ReactDeployPortifolio/static/js/runtime-main.f08f63bb.js",
     "runtime-main.js.map": "/ReactDeployPortifolio/static/js/runtime-main.f08f63bb.js.map",
-    "static/js/2.8167fa52.chunk.js": "/ReactDeployPortifolio/static/js/2.8167fa52.chunk.js",
-    "static/js/2.8167fa52.chunk.js.map": "/ReactDeployPortifolio/static/js/2.8167fa52.chunk.js.map",
+    "static/js/2.b991ef85.chunk.js": "/ReactDeployPortifolio/static/js/2.b991ef85.chunk.js",
+    "static/js/2.b991ef85.chunk.js.map": "/ReactDeployPortifolio/static/js/2.b991ef85.chunk.js.map",
     "index.html": "/ReactDeployPortifolio/index.html",
-    "static/css/main.a46d8e2f.chunk.css.map": "/ReactDeployPortifolio/static/css/main.a46d8e2f.chunk.css.map",
-    "static/js/2.8167fa52.chunk.js.LICENSE.txt": "/ReactDeployPortifolio/static/js/2.8167fa52.chunk.js.LICENSE.txt"
+    "static/css/main.f3be1d7f.chunk.css.map": "/ReactDeployPortifolio/static/css/main.f3be1d7f.chunk.css.map",
+    "static/js/2.b991ef85.chunk.js.LICENSE.txt": "/ReactDeployPortifolio/static/js/2.b991ef85.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f08f63bb.js",
-    "static/js/2.8167fa52.chunk.js",
-    "static/css/main.a46d8e2f.chunk.css",
-    "static/js/main.70dc7372.chunk.js"
+    "static/js/2.b991ef85.chunk.js",
+    "static/css/main.f3be1d7f.chunk.css",
+    "static/js/main.d99f4dcf.chunk.js"
   ]
 }
