@@ -1,0 +1,30 @@
+$mainColor:rgb(88, 0, 139);
+
+$width:768px;
+$smartphone:500px;
+$tablet:1415px;
+
+
+@mixin mobile{
+    @media (max-width: #{$width}){
+        @content;
+    }
+}
+@mixin mobileHeight{
+    @media (max-height: #{$smartphone}){
+        @content;
+    }
+}
+@mixin minMobile{
+    @media (max-width: #{$smartphone}){
+        @content;
+    }
+}
+@mixin tablet{
+    @media (max-width: #{$tablet}){
+        @content;
+    }
+}
+
+
+
