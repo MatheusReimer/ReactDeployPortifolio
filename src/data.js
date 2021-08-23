@@ -31,24 +31,14 @@ export const featuredPortfolio = [
     link:"https://github.com/MatheusReimer/ApiCSHARPbotTakeBlip"
 },
 
-{
-    id:6,
-    title:"C++ Stacks and Queues Implmentantion for Warehouse",
-    img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7uOFMDLUEImHW8RSNYN_eab9cLJ797HYr0w&usqp=CAU",
-    link:"https://github.com/MatheusReimer/https://github.com/MatheusReimer/stacksAndqueues"
-},
+
 {
     id:7,
     title:"Web Scraping with python",
     img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLae7z6EEZzA6szKHrOOfE7SC8pOOf-Ilq1A&usqp=CAU",
     link:"https://github.com/MatheusReimer/WebScrappingPython"
 },
-    {
-        id:8,
-        title:"Zimbra Guide - Translated PT-BR",
-        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7pIYxufvw7vwldXwdOWGgk8mgW7jExSXBew&usqp=CAU",
-        link:"https://github.com/MatheusReimer/TranslateZimbraUserGuide"
-    },
+
 ]
 
 export const webPortfolio = [
@@ -146,18 +136,8 @@ export const studiesPortfolio = [
         img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7uOFMDLUEImHW8RSNYN_eab9cLJ797HYr0w&usqp=CAU",
         link:"https://github.com/MatheusReimer/https://github.com/MatheusReimer/stacksAndqueues"
     },
-    {
-        id:18,
-        title:"C++ Stacks Implementation",
-        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvlx4GRuZx7SlLTt5_TCauhRs2GH6oWohuA&usqp=CAU",
-        link:"https://github.com/MatheusReimer/workingwithStacks"
-    },
-    {
-        id:19,
-        title:"Hashing with C++ ",
-        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPA_Plq2O8KeFJzeOCiaHhUk2DIq8F14krsw&usqp=CAU",
-        link:"https://github.com/MatheusReimer/HashingWithCPP",
-    },
+
+
     {
         id:20,
         title:"Resolutions of algorithmics problems in Haskell",
